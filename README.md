@@ -144,6 +144,10 @@ The target board is the device being programmed and diagnosed.
 
 It runs dedicated EmbedX target diagnostic firmware.
 
+## Hardware Prototype
+
+![EmbedX Hardware Setup](documentation/screenshots/Hardware.png)
+
 ---
 
 ## Diagnostic Interfaces
@@ -313,6 +317,10 @@ The GUI uses a two-column layout:
 |                      | Overall       : PASS       |
 +----------------------+-----------------------------+
 ```
+
+## Diagnostic Result
+
+![EmbedX Diagnostic Result](documentation/screenshots/Result.png)
 
 ---
 
