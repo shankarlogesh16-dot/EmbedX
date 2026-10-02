@@ -146,7 +146,7 @@ It runs dedicated EmbedX target diagnostic firmware.
 
 ## Hardware Prototype
 
-![EmbedX Hardware Setup](documentation/screenshots/Hardware.png)
+![EmbedX Hardware Setup](Documentation/Screenshots/Hardware.png)
 
 ---
 
@@ -320,7 +320,7 @@ The GUI uses a two-column layout:
 
 ## Diagnostic Result
 
-![EmbedX Diagnostic Result](documentation/screenshots/Result.png)
+![EmbedX Diagnostic Result](Documentation/Screenshots/Result.png)
 
 ---
 
