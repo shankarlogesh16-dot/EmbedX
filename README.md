@@ -460,33 +460,6 @@ The diagnostic firmware uses predefined commands and responses to coordinate tes
 
 ---
 
-## Project Structure
-
-The recommended repository structure is:
-
-```text
-EmbedX/
-|
-+-- controller/
-|   +-- EmbedX_Controller.ino
-|
-+-- target/
-|   +-- EmbedX_Target_ESP32.ino
-|
-+-- programmer/
-|   +-- embedx_programmer.py
-|   +-- embedx_gui.py
-|   +-- controller_test.py
-|
-+-- documentation/
-|   +-- block_diagram.png
-|   +-- wiring_diagram.png
-|   +-- screenshots/
-|
-+-- README.md
-```
-
----
 
 ## Requirements
 
